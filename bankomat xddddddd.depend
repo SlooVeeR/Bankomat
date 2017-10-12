@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507312995 source:c:\users\slover\desktop\bankomat xddddddd\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
